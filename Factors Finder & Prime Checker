@@ -21,6 +21,6 @@ int main(){
         cout<<"non prime "<<endl;
     }
     else{
-        cout<<"prime"<<endl;
+        cout<<"prime "<<endl;
     }
 }
